@@ -7,7 +7,7 @@ class AddTwoNumbers {
 
         // Prompt user to enter the first number
         System.out.print("Enter the first number: ");
-        int num1 = scanner.nextInt();
+        int num3 = scanner.nextInt();
 
         // Prompt user to enter the second number
         System.out.print("Enter the second number: ");
